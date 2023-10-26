@@ -246,7 +246,6 @@ contract DeployFundMe is Script {
 
 // Sensitive values saved to: /home/shadow-walker/foundry-full-course-f23/foundry-fund-me-f23/cache/DeployFundMe.s.sol/1/dry-run/run-latest.json
 
-// make deploy-sepolia
 // forge script script/DeployFundMe.s.sol:DeployFundMe --rpc-url https://eth-sepolia.g.alchemy.com/v2/0LbxEqeygolntidHOcpI9VbfC7BsDLL2 --private-key 4bdb35f6b9c5a50db14ff00d395aeff95e97e2308e2fc2600cda1f3a6855d8af --broadcast --verify --etherscan-api-key 617W8TATPEAIIVC9UR7VGW778TMQ7T6NC5 -vvvv
 // [⠰] Compiling...
 // No files changed, compilation skipped
